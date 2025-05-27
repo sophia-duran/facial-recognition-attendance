@@ -34,6 +34,17 @@ The system was able to:
 - Record attendance in a structured and automated format
 
 ## 📂 File Structure
+AttendanceTracker/
+├── hpgrouppic.jpg
+├── images/
+│ ├── harry.jpg
+│ ├── hermione.jpg
+│ ├── ron.jpg
+│ ├── draco.jpg
+│ └── neville.jpg
+├── attendance.db
+├── attendance_tracker.ipynb
+└── README.md
 
 ## 🚀 Future Improvements
 - Real-time video stream detection
