@@ -46,6 +46,11 @@ AttendanceTracker/
 ├── attendance_tracker.ipynb
 └── README.md
 
+### 📷 Output Example
+
+![Face Detection Result](![Screenshot 2025-05-27 163149](https://github.com/user-attachments/assets/d6925db3-8adb-4aed-9bf6-57aa54ce8b0a)
+)
+
 ## 🚀 Future Improvements
 - Real-time video stream detection
 - Integration with Google Sheets or cloud-based attendance records
